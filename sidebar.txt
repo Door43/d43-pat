@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pat:home|Door43 (pat)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pat|d43-pat repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pat/archive/master.zip|d43-pat.zip]]
+
+**Recent Changes**
+{{changes>ns = pat}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pat|Ethnologue data]]
+
